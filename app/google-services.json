@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "783277049426",
+    "firebase_url": "https://hsleiden-1610636860966-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "hsleiden-1610636860966",
+    "storage_bucket": "hsleiden-1610636860966.appspot.com",
+    "application_id": "1:783277049426:web:c105bebf37b8b9f423418b",
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783277049426:android:13b1e1401d0edda523418b",
+        "android_client_info": {
+          "package_name": "nl.royoosterlee.halights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783277049426-7kjddv05aq6l95ocjb5kivppsna6d3iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44FfPF5OdnYC2gkBLzoROiNtxBLp0QM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783277049426-7kjddv05aq6l95ocjb5kivppsna6d3iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
